@@ -50,7 +50,7 @@ print("Biggest increase happend on "  + biggestMonth + " and was " + "$" + str(b
 print("Biggest decrease happend on "  + smallestMonth + " and was " + "$" + str(smallestNum))
 
 with open("analysis.txt", "a") as f:
-    print( "Total Months: " + str(totalmonths), file=f)
+    print( "'Total Months: " + str(totalmonths), file=f)
     print( "Total Revenue: " + "$" +str(totalNet), file=f)
     print("Biggest increase happend on "  + biggestMonth + " and was " + "$" + str(biggestNum), file=f)
     print("Biggest decrease happend on "  + smallestMonth + " and was " + "$" + str(smallestNum), file=f)

@@ -1,0 +1,4 @@
+'Total Months: 85
+Total Revenue: $867884
+Biggest increase happend on Feb-2012 and was $1926159
+Biggest decrease happend on Sep-2013 and was $-2196167
